@@ -7,4 +7,4 @@ Goals of this project
 
 ## 
 
-![](https://raw.github.com/anaglik/PresentationControllerFun/master/example.gif)
+![](https://raw.github.com/anaglik/PresentationControllerFun/master/transition.gif)
